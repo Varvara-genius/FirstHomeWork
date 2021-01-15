@@ -26,7 +26,7 @@ public class Main {
         char aChar = 'C';
     }
 
-    public static float mathExpression(float a, float b, float c, float d) {
+    public static double mathExpression(float a, float b, float c, float d) {
         return (a * (b + (c / d)));
     }
 
